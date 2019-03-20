@@ -1,3 +1,5 @@
+#akhil gokuldas
+
 print "Enter Time in Seconds "
 time=input()
 
