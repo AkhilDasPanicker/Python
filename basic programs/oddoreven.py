@@ -1,3 +1,5 @@
+#akhil gokuldas
+
 print "Enter a number "
 a=input()
 r=a%2
