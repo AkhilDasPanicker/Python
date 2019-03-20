@@ -1,3 +1,5 @@
+#akhil gokuldas
+
 a=[]
 n=input("Enter number of elements ")
 for i in range(n):
