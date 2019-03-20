@@ -1,3 +1,5 @@
+#akhil gokuldas
+
 import math
 print "Enter coefficient of x^2"
 a=input()
